@@ -75,3 +75,5 @@ ssssss
 
     allSelect(items);
   }
+
+  url: https://stackblitz.com/run?file=src%2Fmulti-checkbox-example.component.html,src%2Fmulti-checkbox-example.component.ts,src%2Fmulti-checkbox-example.component.scss
