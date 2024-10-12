@@ -49,7 +49,7 @@ with all select and show count
     }
   </ng-template>
 </ng-select>
-
+ssssss
 
 ====================================type script======================
 
