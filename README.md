@@ -49,6 +49,8 @@ with all select and show count
     }
   </ng-template>
 </ng-select>
+
+
 ====================================type script======================
 
   people: any[] = [];
